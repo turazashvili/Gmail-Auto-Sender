@@ -83,7 +83,7 @@ This is a simple Email Auto Sender based on Gmail.
   ![image](https://user-images.githubusercontent.com/74835523/174792730-2373d84c-33bd-49bb-ab9b-03600988ba14.png)
 
 
-5. <a href="https://support.google.com/mail/answer/185833?hl=en-GB">Create the APP password in your gmail account.</a> 
+5. <a href="https://support.google.com/mail/answer/185833?hl=en-GB" target="_blank" >Create the APP password in your gmail account.</a> 
 
 6. Insert your email and password to lines 19 and 20
 
