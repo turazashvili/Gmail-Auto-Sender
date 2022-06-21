@@ -55,10 +55,6 @@ This is a simple Email Auto Sender based on Gmail.
 ### Built With
 
 * [Python](https://python.org/)
-* [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
-* [KeyBoard](https://pypi.org/project/keyboard/)
-* [Threaded](https://pypi.org/project/threaded/)
-*  WebBrowser
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -84,8 +80,10 @@ This is a simple Email Auto Sender based on Gmail.
      ```
      
 4. Change the emails.csv file with Full Name and Emails list to whom you want to send.
+  ![image](https://user-images.githubusercontent.com/74835523/174792730-2373d84c-33bd-49bb-ab9b-03600988ba14.png)
 
-5. Create the APP password in your gmail account. https://support.google.com/mail/answer/185833?hl=en-GB
+
+5. <a href="https://support.google.com/mail/answer/185833?hl=en-GB">Create the APP password in your gmail account.</a> 
 
 6. Insert your email and passowrd to lines 19 and 20
 
@@ -103,6 +101,7 @@ You will receive console.log when email is sent to each recipient.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+![image](https://user-images.githubusercontent.com/74835523/174792639-7f8f4fcd-6b06-40a2-891e-742d18f15dff.png)
 
 
 
@@ -116,8 +115,8 @@ You will receive console.log when email is sent to each recipient.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add other ways to extract data from contacts.
-- [ ] Add more styling to messages.
+- [ ] Add support for images and other media.
+- [ ] Check for possible ways to avoid emails going to spam if overabused.
 
 
 See the [open issues](https://github.com/turazashvili/Gmail-Auto-Sender/issues) for a full list of proposed features (and known issues).
